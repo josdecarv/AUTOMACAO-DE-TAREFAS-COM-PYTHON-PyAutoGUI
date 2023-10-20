@@ -27,3 +27,5 @@ time.sleep(1)
 
 # avise ao terminar as tarefas
 pyautogui.alert("Acabamos de executar o nosso algoritmo, pressione OK, para terminar.")
+
+#criado por JOSE EURICO
