@@ -10,7 +10,7 @@ A biblioteca PyAutoGUI no Python é uma mão na roda em muitos casos. Permite co
 
 Com ela, os programadores perdem menos tempo e focam em aspectos mais importantes.
 
-# APLICAÇÕES PYAUTOGUI
+## APLICAÇÕES PYAUTOGUI
 
 Essa biblioteca é muito fácil de usar. Imagine que você precisa de testes para verificar a consistência de uma aplicação. Esses testes incluem, naturalmente, funções básicas, como escrever e clicar, com o teclado e com mouse.
 
