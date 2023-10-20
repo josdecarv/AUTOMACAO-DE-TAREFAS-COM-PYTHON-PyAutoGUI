@@ -22,10 +22,12 @@ Dessa maneira, você garantiria menos perda de tempo com essas funções e poder
 
 Com isso, o desenvolvedor consegue executar vários testes em bloco para assegurar a consistência de sua aplicação. É viável desenvolver uma lógica de repetição e condicional para os testes, seguindo o mesmo princípio normal da programação.
 
-Meu GitHub:
+# Meu GitHub:
+
 github.com/josdecarv
 
-Algumas fontes consultadas:
+
+# Algumas fontes consultadas:
 
 jobu.com.br/2021/08/03/pyautogui
 
