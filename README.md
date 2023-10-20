@@ -26,6 +26,8 @@ Meu GitHub:
 github.com/josdecarv
 
 Algumas fontes consultadas:
+
 jobu.com.br/2021/08/03/pyautogui
+
 www.hastagtreinamentos.com/automacao-programa-sistema-python
 
